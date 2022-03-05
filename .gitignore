@@ -1,0 +1,6 @@
+book_genre/book_genre_rdy.txt
+books/books_rdy.txt
+authors/authors_rdy.txt
+genres/genres_rdy.txt
+author_book/author_book_rdy.txt
+populate.sql

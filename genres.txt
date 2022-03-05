@@ -1,0 +1,25 @@
+name
+Fantasy
+Adventure
+Romance
+Contemporary
+Dystopian
+Mystery
+Horror
+Thriller
+Paranormal
+Historical fiction
+Science Fiction
+Children’s
+Memoir
+Cooking
+Art
+Self-help / Personal
+Development
+Motivational
+Health
+History
+Travel
+Guide / How-to
+Families & Relationships
+Humor
